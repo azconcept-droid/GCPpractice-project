@@ -46,6 +46,61 @@ GADS learning phase 2 practice project
   <img src="Examining Billing data with BigQuery.png">
 </details>
 
+<details>
+  <!-- The complete lab title goes here 👇🏾-->
+  <summary>Lab 7: Implementing Cloud SQL</summary>
+  <!-- Provide path to the screenshot here. Example 👇🏾-->
+  <img src="Implementing Cloud SQL.png">
+</details>
+
+<details>
+  <!-- The complete lab title goes here 👇🏾-->
+  <summary>Lab 8: cloud IAM</summary>
+  <!-- Provide path to the screenshot here. Example 👇🏾-->
+  <img src="lab cloud IAM.png">
+</details>
+
+<details>
+  <!-- The complete lab title goes here 👇🏾-->
+  <summary>Lab 9:implementing private google access and cloud NAT</summary>
+  <!-- Provide path to the screenshot here. Example 👇🏾-->
+  <img src="lab implementing private google access and cloud NAT.png">
+</details>
+
+<details>
+  <!-- The complete lab title goes here 👇🏾-->
+  <summary>Lab 10: Infrastructure Preview</summary>
+  <!-- Provide path to the screenshot here. Example 👇🏾-->
+  <img src="Lab Infrastructure Preview.png">
+</details>
+
+<details>
+  <!-- The complete lab title goes here 👇🏾-->
+  <summary>Lab 11: working with VMs</summary>
+  <!-- Provide path to the screenshot here. Example 👇🏾-->
+  <img src="lab working with VMs.png">
+</details>
+
+<details>
+  <!-- The complete lab title goes here 👇🏾-->
+  <summary>Lab 12: Resource Monitoring</summary>
+  <!-- Provide path to the screenshot here. Example 👇🏾-->
+  <img src="Resource Monitoring.png">
+</details>
+
+<details>
+  <!-- The complete lab title goes here 👇🏾-->
+  <summary>Lab 13: VPC Networking</summary>
+  <!-- Provide path to the screenshot here. Example 👇🏾-->
+  <img src="VPC_networking_lab.png">
+</details>
+
+<details>
+  <!-- The complete lab title goes here 👇🏾-->
+  <summary>Lab 14: Virtual Private Network</summary>
+  <!-- Provide path to the screenshot here. Example 👇🏾-->
+  <img src="VPN.png">
+</details>
 
 
 
@@ -54,12 +109,8 @@ GADS learning phase 2 practice project
 <details>
   <!-- The complete lab title goes here 👇🏾-->
   <summary>Lab 1: How to create Virtual Machines</summary>
-  <!-- Provide path to the screenshot here. Example 👇🏾-->
-  <img src="lab_creating_virtual_machines.png">
-</details>
-
-
-## Cloud Console
+  
+  ## Cloud Console
   
 ```
 In the Cloud Console, on the top left of the screen, select Navigation menu > Compute Engine > VM Instances:
@@ -74,15 +125,16 @@ Click Create.
 gcloud compute instances create gcelab2 --machine-type n1-standard-2 --zone us-central1-c
 ```
 
+</details>
+
+
+
 
 <details>
   <!-- The complete lab title goes here 👇🏾-->
   <summary>Lab 2: Cloud Storage</summary>
-  <!-- Provide path to the screenshot here. Example 👇🏾-->
-  <img src="Cloud_Storage.png">
-</details>
-
-## Cloud Console
+  
+  ## Cloud Console
   
 ```
  Google Coud Storage Using the Google Console
@@ -158,4 +210,7 @@ Use the gsutil rm command to delete an object - the image file in your bucket:
 gsutil rm gs://YOUR-BUCKET-NAME/image.jpg
 
 ```
+
+</details>
+
 
