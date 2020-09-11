@@ -9,7 +9,7 @@ GADS learning phase 2 practice project
   <!-- The complete lab title goes here 👇🏾-->
   <summary>Lab 1: How to create Virtual Machines</summary>
   <!-- Provide path to the screenshot here. Example 👇🏾-->
-  <img src="screenshots/lab_creating_virtual_machines.png">
+  <img src="lab_creating_virtual_machines.png">
 </details>
 
 ## Translation code
@@ -23,7 +23,7 @@ gcloud compute instances create gcelab2 --machine-type n1-standard-2 --zone us-c
   <!-- The complete lab title goes here 👇🏾-->
   <summary>Lab 2: Cloud Storage</summary>
   <!-- Provide path to the screenshot here. Example 👇🏾-->
-  <img src="screenshots/Cloud_Storage.png">
+  <img src="Cloud_Storage.png">
 </details>
 
 ## Translation code
