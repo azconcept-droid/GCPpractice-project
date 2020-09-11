@@ -12,15 +12,15 @@ GADS learning phase 2 practice project
   <img src="lab_creating_virtual_machines.png">
 </details>
 
-<details>
-  Create a new instance from the Cloud Console
 
+## Cloud Console
+  
+```
 In the Cloud Console, on the top left of the screen, select Navigation menu > Compute Engine > VM Instances:
 To create a new instance, click Create.
 configure the parameter of your choice when creating a new instance.
 Click Create.
-</details>
-
+```
 
 ## Translation code
 
@@ -36,7 +36,9 @@ gcloud compute instances create gcelab2 --machine-type n1-standard-2 --zone us-c
   <img src="Cloud_Storage.png">
 </details>
 
-<details>
+## Cloud Console
+  
+```
  Google Coud Storage Using the Google Console
 Create a Bucket
 In the Cloud Console, go to Navigation menu > Storage > Browser. Click Create Bucket:
@@ -74,8 +76,8 @@ In this section, remove folder1 and its contents from your bucket.
 1.	Navigate back to Buckets/[YOUR_BUCKET]. You should see folder1 listed in the bucket contents list.
 2.	Check the box next to the Name, folder1, and click Delete, and then click Delete again when prompted to confirm.
 folder1 and its contents are no longer in your bucket.
-
-</details>
+  
+```
 
 
 ## Translation code
