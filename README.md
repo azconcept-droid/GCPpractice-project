@@ -2,8 +2,54 @@
 GADS learning phase 2 practice project
 
 # gads-2020-practice-project
+## 1. 14 Qwiklabs Screenshots
 
-## QwikLabs Completed
+<details>
+  <!-- The complete lab title goes here 👇🏾-->
+  <summary>Lab 1: How to create Virtual Machines</summary>
+  <!-- Provide path to the screenshot here. Example 👇🏾-->
+  <img src="lab_creating_virtual_machines.png">
+</details>
+
+<details>
+  <!-- The complete lab title goes here 👇🏾-->
+  <summary>Lab 2: Cloud Storage</summary>
+  <!-- Provide path to the screenshot here. Example 👇🏾-->
+  <img src="Cloud_Storage.png">
+</details>
+
+<details>
+  <!-- The complete lab title goes here 👇🏾-->
+  <summary>Lab 3: Configuring an internal load balancer</summary>
+  <!-- Provide path to the screenshot here. Example 👇🏾-->
+  <img src="Configuring an internal load balancer.png">
+</details>
+
+<details>
+  <!-- The complete lab title goes here 👇🏾-->
+  <summary>Lab 4: Console and Cloud Shell</summary>
+  <!-- Provide path to the screenshot here. Example 👇🏾-->
+  <img src="Console and Cloud Shell.png">
+</details>
+
+<details>
+  <!-- The complete lab title goes here 👇🏾-->
+  <summary>Lab 5: Error Reporting and Debugging</summary>
+  <!-- Provide path to the screenshot here. Example 👇🏾-->
+  <img src="Error Reporting and Debugging.png">
+</details>
+
+<details>
+  <!-- The complete lab title goes here 👇🏾-->
+  <summary>Lab 6: Examining Billing data with BigQuery</summary>
+  <!-- Provide path to the screenshot here. Example 👇🏾-->
+  <img src="Examining Billing data with BigQuery.png">
+</details>
+
+
+
+
+## 2 QwikLabs translated from console to command line
 
 <details>
   <!-- The complete lab title goes here 👇🏾-->
